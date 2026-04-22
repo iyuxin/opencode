@@ -62,7 +62,7 @@ nix run nixpkgs#opencode           # 或用 github:anomalyco/opencode 获取最�
 ```
 
 > [!TIP]
-> 安装前请先移除 0.1.x 之前的旧版本。
+> 安装前请先移除 0.1.x 之前的旧版本123。
 
 ### 桌面应用程序 (BETA)
 
